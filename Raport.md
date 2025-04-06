@@ -43,4 +43,4 @@ Celem analizy było porównanie różnych alternatyw (A1, A2, A3) na podstawie t
 ## 5. Podsumowanie
 
 Pomimo różnic w rankingach, A1 jest najlepszą alternatywą w analizie MCDM, biorąc pod uwagę metody TOPSIS i SPOTIS. Z kolei A2 wyróżnia się metodą VIKOR. Wyniki pokazują, jak różne metody mogą prowadzić do różnych wniosków, a odpowiedni wybór metody zależy od preferencji decydenta.
-"""
+
