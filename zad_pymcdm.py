@@ -39,7 +39,7 @@ bounds = np.array([(min(matrix[:, i]), max(matrix[:, i])) for i in range(matrix.
 spotis = SPOTIS(bounds)
 scores_spotis = spotis(matrix, weights_manual, types_array)
 
-# --- VIKOR (opcjonalnie) ---
+# --- VIKOR  ---
 vikor = VIKOR()
 scores_vikor = vikor(norm_matrix, weights_manual, types_list)
 
